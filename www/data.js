@@ -1,1 +1,1 @@
-{"name":"HTML5 Examples","site":"http://www.xy-hd.com/","properties":{"isBlog":true,"html5":true,"css3":true, "jQuery":true, "description":"xy-hd blog"}}
+{"name":"HTML5 Examples","site":"http://github.com/","properties":{"isBlog":true,"html5":true,"css3":true, "jQuery":true, "description":"xy-hd blog"}}
